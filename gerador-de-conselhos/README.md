@@ -16,6 +16,11 @@ style.css: Este arquivo CSS é responsável por estilizar a página e torná-la 
 
 img: Pasta que armazena as imagens, incluindo o ícones.
 
+## Preview 📸
+
+<img src="./src/images/desktop.png">
+<img src="./src/images/mobile.png">
+
 ## Personalização 🎨
 Sinta-se à vontade para personalizar o gerador de conselhos de acordo com suas preferências. Você pode modificar o estilo, adicionar mais funcionalidades ou integrá-lo a outras tecnologias.
 
